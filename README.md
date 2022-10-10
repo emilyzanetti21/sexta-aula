@@ -1,8 +1,6 @@
 # sexta-aula
 
-DOCTYPE hyml>
-
-</DOCTYPE html><!DOCTYPE hyml>
+<!DOCTYPE html></!DOCTYPE html>
 <head>
 <p><h1><strong> A 6° aula/ A grande revolta</p></head></strong></h1>
 <body>
